@@ -67,6 +67,8 @@ ${NativeSelect}:hover + & {
 color: black;
 }
 `
-
+// note: followed along solution video
 
 export default Select;
+
+
